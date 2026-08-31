@@ -32,7 +32,7 @@ local SAB_DB = {
     ["roblox name"]                 = "SPYDERSAMMY",
     ["username"]                    = "SPYDERSAMMY",
     ["my username"]                 = "SPYDERSAMMY",
-    ["my name on roblox"]           = "SPYDERSAMMY",
+    ["roblox"]                      = "SPYDERSAMMY",
     ["channel"]                     = "SPYDERSAMMY",
     ["handle"]                      = "SPYDERSAMMY",
 

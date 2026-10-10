@@ -1316,6 +1316,7 @@ local SAB_DB = {
     ["what is the favorite color 5 times"] = "BLUEBLUEBLUEBLUEBLUE",
     ["whats the favorite color 5 times"] = "BLUEBLUEBLUEBLUEBLUE",
     ["what is my favorite color twice"] = "BLUEBLUE",
+    ["my fav color"] = "BLUEBLUE",
     ["whats my favorite color twice"] = "BLUEBLUE",
     ["what is my favorite color 2 times"] = "BLUEBLUE",
     ["whats my favorite color 2 times"] = "BLUEBLUE",
